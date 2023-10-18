@@ -7,4 +7,15 @@
 
 
 #### amogus
-![Amogus](https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552)
+![Amogus](https://static.wikia.nocookie.net/amogus/images/c/cb/Susremaster.png/revision/latest?cb=20210806124552 | width=100)
+
+```php
+<?php
+  $text = 'Hello World!';
+  echo $text;
+?>
+```
+```javascript
+const text = 'Hello World!'
+console.log(text)
+```
